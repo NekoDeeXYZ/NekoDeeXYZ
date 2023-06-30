@@ -1,7 +1,7 @@
 <h3> About </h3>
 <p> 👋 Hello Hello! 👋 </br> 
   My name is Delany but I often go by NekoDeeXYZ. </br>
-I am a YA Librarian, and complete progaming newbie! </p>
+I am a YA Librarian, and complete programming newbie! </p>
 <h3> ✨ My favorite Topics ✨</h3>
 <p> <a href= "https://github.com/search?q=topic%3Aboardgame&type=repositories"> ♥️ BoardGames ♥️ </a><br>
   <a href= "https://github.com/search?q=topic%3Alibrary-carpentry&type=repositories"> 🔍Library-Carpentry 🔍</a></p>
